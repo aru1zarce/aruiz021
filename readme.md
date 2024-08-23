@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 Ingeniero Informático con más de 1 año de experiencia en empresas <br>de los rubros de Retail y Agencia Digital. en las áreas de Desarrollo Web y Soporte Técnico, <br>con conocimientos en HTML5, CSS3, PHP, MySQL, JavaScript.
 
 
